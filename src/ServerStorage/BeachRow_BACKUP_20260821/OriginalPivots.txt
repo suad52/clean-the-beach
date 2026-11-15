@@ -1,0 +1,6 @@
+Workspace.CarSpawner = -52.0000, 2.8000, -171.0000
+Workspace.WashBay = -30.0200, 5.4000, -172.0000
+Workspace.Beach.Store = -3.0000, 7.2000, -168.0000
+Workspace.Beach.UpgradeKiosk = -3.0000, 10.3250, -173.0000
+Workspace.Beach.SellArea = 25.8600, 3.2200, -160.0000
+Workspace.AfkEntry = 66.0000, 3.4000, -169.0000
